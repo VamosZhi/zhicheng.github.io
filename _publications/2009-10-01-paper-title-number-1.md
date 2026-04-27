@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Critical effect of fore-aft tapering on galloping triggering for a trapezoidal body"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
