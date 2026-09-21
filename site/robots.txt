@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vamoszhi.github.io/zhicheng.github.io/sitemap.xml

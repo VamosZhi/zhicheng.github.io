@@ -1,0 +1,106 @@
+[
+  {
+    "id": "paper-3",
+    "authors": "Gao, Rui; Cheng, Zhi*; Jaiman, Rajeev.",
+    "year": "2026",
+    "title": "A mesh-adaptive hypergraph neural network for unsteady flow around oscillating and rotating structures",
+    "venue": "Engineering Applications of Artificial Intelligence, 182, 116051.",
+    "category": "methods"
+  },
+  {
+    "id": "paper-10",
+    "authors": "Zhou, Qingchun; Peng, Ze-Rui*; Cheng, Zhi; Xiong, Yongliang; and Wang, Lin",
+    "year": "2026",
+    "title": "Flow-induced vibration of an elastically mounted prolate spheroid: dynamic branches and modal competition",
+    "venue": "Journal of Fluid Mechanics, Accepted. ",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-14",
+    "authors": "Cheng, Zhi; Darbhamulla, Nihar; Jaiman, Rajeev*",
+    "year": "2025",
+    "title": "Flow-induced vibration of flexible tapering hydrofoils with and without sheet cavitation",
+    "venue": "International Journal of Multiphase Flow, 186, 105149.",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-2",
+    "authors": "Cheng, Zhi*; Zhang, Ji Hao; Wang, Ryne; Lien, Fue-Sang; Dowell, Earl H.",
+    "year": "2024",
+    "title": "Asymmetric instability of flow-induced vibration for elastically mounted cube at moderate Reynolds numbers",
+    "venue": "Journal of Fluid Mechanics, 996, A34.",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-5",
+    "authors": "Cheng, Zhi*; Lien, Fue-Sang; Zhang, Ji Hao; Gu, Grace X.",
+    "year": "2024",
+    "title": "Blind zones in radiating dispersion at high Péclet number driven by non-Newtonian fluids in porous media",
+    "venue": "Journal of Fluid Mechanics, 986, A16.",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-15",
+    "authors": "Cheng, Zhi*; Wu, Ying; Dowell, Earl H.; Lien, Fue-Sang",
+    "year": "2024",
+    "title": "Aerodynamic Noise Generated in Three-Dimensional Lock-In and Galloping Behavior of Square Cylinder in High Reynolds Number Turbulent Flows",
+    "venue": "Journal of Vibration and Acoustics, 146, 031005.",
+    "category": "acoustics"
+  },
+  {
+    "id": "paper-1",
+    "authors": "Cheng, Zhi*; Lien, Fue-Sang; Dowell, Earl H.; Yee, Eugene; Wang, Ryne; Zhang, Ji Hao",
+    "year": "2023",
+    "title": "Critical effect of fore-aft tapering on galloping triggering for a trapezoidal body",
+    "venue": "Journal of Fluid Mechanics, 967, A18.",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-7",
+    "authors": "Cheng, Zhi*; Lien, Fue-Sang; Dowell, Earl H.; Yee, Eugene",
+    "year": "2023",
+    "title": "Triggering of galloping in structures at low Reynolds numbers",
+    "venue": "Journal of Fluids and Structures, 118, 103860. ",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-9",
+    "authors": "Cheng, Zhi*; McConkey, Ryley; Yee, Eugene; Lien, Fue-Sang",
+    "year": "2023",
+    "title": "Numerical investigation of noise suppression and amplification in forced oscillations of single and tandem cylinders in high Reynolds number turbulent flows",
+    "venue": "Applied Mathematical Modelling, 117, 652–686.",
+    "category": "acoustics"
+  },
+  {
+    "id": "paper-8",
+    "authors": "Cheng, Zhi*; Lien, Fue-Sang; Yee, Eugene; Meng, Hang",
+    "year": "2022",
+    "title": "A unified framework for aeroacoustics simulation of wind turbines",
+    "venue": "Renewable Energy, 188, 299–319.",
+    "category": "acoustics"
+  },
+  {
+    "id": "paper-11",
+    "authors": "Cheng, Zhi*; Lien, Fue-Sang; Dowell, Earl H.; Wang, Ryne; Zhang, Ji Hao",
+    "year": "2022",
+    "title": "Data-driven stability analysis via the superposition of reduced-order models for the flutter of circular cylinder submerged in three-dimensional spanwise shear inflow at subcritical Reynolds number",
+    "venue": "Physics of Fluids, 34, 123606.",
+    "category": "methods"
+  },
+  {
+    "id": "paper-12",
+    "authors": "Cheng, Zhi; Lien, Fue-Sang*; Yee, Eugene; Chen, Guang",
+    "year": "2022",
+    "title": "Vortex-induced vibration of a circular cylinder with nonlinear restoring forces at low-Reynolds number",
+    "venue": "Ocean Engineering, 266, 113197.",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-13",
+    "authors": "Cheng, Zhi*; Lien, Fue-Sang; Yee, Eugene; Zhang, Ji Hao",
+    "year": "2022",
+    "title": "Mode transformation and interaction in vortex-induced vibration of laminar flow past a circular cylinder",
+    "venue": "Physics of Fluids, 34, 033607.",
+    "category": "methods"
+  }
+]
