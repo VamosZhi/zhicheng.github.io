@@ -1,5 +1,21 @@
 [
   {
+    "id": "paper-morphing-prf-2026",
+    "authors": "Cheng, Zhi; Wei, ZiXiao; Gu, Grace X.*",
+    "year": "2026",
+    "title": "Dynamical comparison and superimposition of morphing submodes in biological wing motion",
+    "venue": "Phys. Rev. Fluids, accepted (2026).",
+    "category": "fsi"
+  },
+  {
+    "id": "paper-forewings-jva-2026",
+    "authors": "Cheng, Zhi; Jung, Jiyoung; Gu, Grace X.*",
+    "year": "2026",
+    "title": "Influence of Forewings on Transonic Aeroelasticity: Modulated Buffet and Amplified Pitching Vibration",
+    "venue": "J. Vib. Acoust., accepted (2026).",
+    "category": "fsi"
+  },
+  {
     "id": "paper-3",
     "authors": "Gao, Rui; Cheng, Zhi*; Jaiman, Rajeev.",
     "year": "2026",
@@ -12,8 +28,10 @@
     "authors": "Zhou, Qingchun; Peng, Ze-Rui*; Cheng, Zhi; Xiong, Yongliang; and Wang, Lin",
     "year": "2026",
     "title": "Flow-induced vibration of an elastically mounted prolate spheroid: dynamic branches and modal competition",
-    "venue": "Journal of Fluid Mechanics, Accepted. ",
-    "category": "fsi"
+    "venue": "J. Fluid Mech., 1031, A23 (2026).",
+    "category": "fsi",
+    "doi": "10.1017/jfm.2026.11331",
+    "url": "https://doi.org/10.1017/jfm.2026.11331"
   },
   {
     "id": "paper-14",
