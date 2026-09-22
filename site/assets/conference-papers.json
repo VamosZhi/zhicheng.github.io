@@ -1,0 +1,42 @@
+[
+  {
+    "id": "conference-omae-2025",
+    "year": "2025",
+    "authors": "Cheng, Zhi; Kashyap, Suraj; Smoker, Brendan; Burella, Giorgio; Jaiman, Rajeev*.",
+    "title": "Integrated Numerical and Experimental Study of Cavitating Flow and Underwater Noise in Tug Vessels with Ducted Propellers",
+    "venue": "Proceedings of ASME OMAE 2025, 44th International Conference on Ocean, Offshore & Arctic Engineering. June 22-27, 2025, Vancouver, Canada.",
+    "category": "acoustics"
+  },
+  {
+    "id": "conference-omae-hydrofoil-2024",
+    "year": "2024",
+    "authors": "Cheng, Zhi; Jaiman, Rajeev*.",
+    "title": "Flow-Induced Vibration of Flexible Hydrofoil in Cavitating Turbulent Flow",
+    "venue": "Proceedings of ASME OMAE 2024, 43rd International Conference on Ocean, Offshore & Arctic Engineering. June 9-14, 2024, Singapore.",
+    "category": "fsi"
+  },
+  {
+    "id": "conference-csme-2024",
+    "year": "2024",
+    "authors": "Cheng, Zhi; Jaiman, Rajeev*.",
+    "title": "Cavitation-Induced Vibration of Underwater Flexible Hydrofoil",
+    "venue": "Proceedings of CSME/CFD 2024. University of Toronto, May 2024, Canada.",
+    "category": "fsi"
+  },
+  {
+    "id": "conference-omae-noise-2024",
+    "year": "2024",
+    "authors": "Cheng, Zhi; Kashyap, Suraj; Smoker, Brendan; Burella, Giorgio; Jaiman, Rajeev*.",
+    "title": "Modeling of Hydroacoustic Noise from Marine Propellers with Tip Vortex Cavitation",
+    "venue": "Proceedings of ASME OMAE 2024, 43rd International Conference on Ocean, Offshore & Arctic Engineering. June 9-14, 2024, Singapore.",
+    "category": "acoustics"
+  },
+  {
+    "id": "conference-cfdsc-2021",
+    "year": "2021",
+    "authors": "Cheng, Zhi; Lien, Fue-Sang*; Yee, Eugene; Meng, Hang.",
+    "title": "Computational Schema for Wind Turbine Noise Prediction",
+    "venue": "Proceedings of the CFDSC Congress 2021. Memorial University, St. John's, Newfoundland and Labrador, July 2021, Canada.",
+    "category": "acoustics"
+  }
+]

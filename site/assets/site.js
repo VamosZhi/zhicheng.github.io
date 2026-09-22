@@ -7,16 +7,19 @@
   nav?.querySelectorAll('a').forEach(a => a.addEventListener('click', closeMenu));
   const search = document.querySelector('#pub-search');
   const topic = document.querySelector('#pub-topic');
-  const papers = [...document.querySelectorAll('#journal-list .publication')];
+  const papers = [...document.querySelectorAll('#journal-list .publication, #conference-list .publication')];
   function filter() {
     const query = search.value.trim().toLowerCase();
     let count = 0;
+    let conferenceCount = 0;
     papers.forEach(p => {
       p.hidden = !((topic.value === 'all' || p.dataset.category === topic.value) && p.textContent.toLowerCase().includes(query));
-      if (!p.hidden) count++;
+      if (!p.hidden) { if (p.classList.contains('conference-paper')) conferenceCount++; else count++; }
     });
     document.querySelector('#pub-count').textContent = `${count} journal ${count === 1 ? 'article' : 'articles'}`;
-    document.querySelector('#no-results').hidden = count > 0;
+    const conferenceStatus = document.querySelector('#conference-count');
+    if (conferenceStatus) conferenceStatus.textContent = `${conferenceCount} conference ${conferenceCount === 1 ? 'paper' : 'papers'}`;
+    document.querySelector('#no-results').hidden = count + conferenceCount > 0;
   }
   search?.addEventListener('input', filter);
   topic?.addEventListener('change', filter);
