@@ -1,0 +1,43 @@
+/* Shared typography and responsive spacing across all pages. */
+body {font-size:20px;line-height:1.7}
+body .header .wordmark,body.home-page .header .wordmark{font-size:30px!important}
+body .header nav a,body .header nav a span,body .header .menu-toggle,body .header .menu-toggle span{font-size:20px!important}
+.header .nav-wrap{min-height:92px;gap:24px}
+.header nav{gap:26px}
+body .page-head h1{font-size:64px;line-height:1.15}
+body .footer-inner{grid-template-columns:minmax(0,1.5fr) minmax(0,.8fr) minmax(0,1fr);gap:40px}
+body .footer-inner p,body .footer-inner a,body .footer-inner .fine{font-size:20px!important;line-height:1.65}
+body .footer-inner .wordmark{font-size:30px!important}
+.footer-inner>*,.publication>*{min-width:0}
+body .publication{grid-template-columns:65px minmax(0,1fr) 145px;gap:24px}
+body .publication h3{line-height:1.4}
+body .publication p{line-height:1.65}
+body .r-three{grid-template-columns:repeat(2,minmax(0,1fr))}
+body #fsi-models .r-three{grid-template-columns:1fr}
+.cv-toc{line-height:1.6}
+.cv-toc a{padding-block:6px}
+.r-playbar{flex-wrap:wrap}
+@media(max-width:1100px){
+ .header .menu-toggle{display:block}
+ .header #navigation{display:none;position:absolute;top:100%;left:0;right:0;background:var(--paper);padding:24px;border-bottom:1px solid var(--line)}
+ .header #navigation.open{display:flex;flex-direction:column;align-items:flex-start;gap:24px}
+ .header .contact-link{margin-left:0}
+ body .publication{grid-template-columns:65px minmax(0,1fr)}
+ body .publication .paper-link{grid-column:2}
+ body .cv-layout{grid-template-columns:190px minmax(0,1fr);gap:35px}
+}
+@media(max-width:760px){
+ body .page-head h1{font-size:44px}
+ .header .nav-wrap{min-height:80px}
+ body .footer-inner{grid-template-columns:1fr;gap:28px}
+ body .footer-inner>div:first-child{grid-column:auto}
+ body .publication{display:block}
+ .publication .pub-year{display:block;margin-bottom:12px}
+ body .cv-layout,body .r-three,body .r-two{grid-template-columns:1fr}
+ body .cv-list li,body .timeline article{grid-template-columns:1fr;gap:8px}
+ .section-heading{flex-wrap:wrap;gap:24px}
+ .r-theme-heading{flex-wrap:wrap;gap:14px}
+ .r-group-heading{align-items:baseline}
+ .pub-tools{grid-template-columns:1fr}
+ .footer-inner,.page-head,.r-card,.contact-band{overflow-wrap:break-word}
+}
